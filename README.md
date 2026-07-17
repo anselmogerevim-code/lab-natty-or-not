@@ -1,6 +1,6 @@
-# 📘 Natural ou Fake Natty? – Ebook sobre IA e Programação
+# 📘 IA & Programação – O Impacto da Inteligência Artificial no Dia a Dia dos Desenvolvedores
 
-![Capa do Ebook](https://copilot.microsoft.com/th/id/BCO.c2437a47-3347-481e-b76f-0b92de3ef217.png)
+![Capa do Ebook](https://raw.githubusercontent.com/SEU-USUARIO/SEU-REPOSITORIO/main/assets/capa-ebook-ia-programacao.png)
 
 ## 📖 Descrição
 Este projeto faz parte do desafio **Natural ou Fake Natty?** da DIO...
