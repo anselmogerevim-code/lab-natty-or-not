@@ -1,6 +1,6 @@
 # 📘 Natural ou Fake Natty? – Ebook sobre IA e Programação
 
-![Capa do Ebook](./af73dc6228cf91127b5ce36281167ba04ea59bf8.jpeg)
+![Capa do Ebook](./ChatGPT%20Imagem%2016%20de%20jul.%20de%202026,%2023_55_05.png)
 
 ## 📖 Descrição
 Este projeto faz parte do desafio **Natural ou Fake Natty?** da DIO.  
