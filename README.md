@@ -1,10 +1,9 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# 📘 Natural ou Fake Natty? – Ebook sobre IA e Programação
 
-## 🚀 Introdução
+![Capa do Ebook](https://copilot.microsoft.com/th/id/BCO.c2437a47-3347-481e-b76f-0b92de3ef217.png)
 
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+## 📖 Descrição
+Este projeto faz parte do desafio **Natural ou Fake Natty?** da DIO...
 
 ## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
 
