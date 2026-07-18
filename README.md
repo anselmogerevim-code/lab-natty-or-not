@@ -1,6 +1,6 @@
 # 📘 Natural ou Fake Natty? – Ebook sobre IA e Programação
 
-![Capa do Ebook](./ChatGPT Image 16 de jul. de 2026, 23_55_05.png)
+![Capa do Ebook](https://github.com/anselmogerevim-code/lab-natty-or-not/blob/598dfa820c6f1da9fa024427a79e50f6cdfd2075/ChatGPT%20Image%2016%20de%20jul.%20de%202026%2C%2023_55_05.png)
 
 ## 📖 Descrição
 Este projeto faz parte do desafio **Natural ou Fake Natty?** da DIO.  
@@ -8,37 +8,29 @@ Aqui apresento um **ebook completo** sobre a relevância das **Inteligências Ar
 
 ---
 
-## 📚 Ebook: A Relevância das IAs para Desenvolvedores
+## 📒 Descrição
+Este projeto apresenta um ebook sobre a relevância das Inteligências Artificiais para desenvolvedores e programadores, explorando desde seu surgimento até o impacto atual no cotidiano da programação.
 
-### 1. O surgimento das IAs  
-As **Inteligências Artificiais** começaram a ser estudadas na década de 1950, com pioneiros como Alan Turing e John McCarthy. Inicialmente eram apenas conceitos teóricos, mas evoluíram com o avanço da computação até se tornarem ferramentas práticas e acessíveis.
+## 🤖 Tecnologias Utilizadas
+- IA Generativa (Copilot / ChatGPT)
+- Ferramenta de geração de imagens para a capa
+- Markdown para estruturação do ebook
 
-### 2. A relevância atual  
-Hoje, a IA está presente em todos os setores, e com as **IAs generativas**, programadores contam com assistentes inteligentes que ajudam a escrever código, detectar erros e sugerir soluções criativas.
+## 🧐 Processo de Criação
+O conteúdo foi estruturado em 6 parágrafos, cobrindo:
+1. Surgimento das IAs  
+2. Relevância atual  
+3. O dia a dia antes da IA  
+4. O dia a dia com IA  
+5. Vantagens da IA para programadores  
+6. O futuro da programação com IA  
 
-### 3. O dia a dia antes da IA  
-Antes, programadores passavam horas em documentação e fóruns para resolver problemas. A curva de aprendizado era lenta e dependia fortemente da experiência acumulada.
+Além disso, foi criada uma capa visual com IA generativa para dar identidade ao projeto e já exibir um material construido pela IA.
 
-### 4. O dia a dia com IA  
-Com **assistentes de programação**, o cenário mudou: sugestões de código em tempo real, testes automatizados, documentação gerada e protótipos criados em minutos. Isso democratizou o acesso ao conhecimento.
-
-### 5. Vantagens da IA para programadores  
-- **Produtividade aumentada**: menos tempo gasto em tarefas repetitivas.  
-- **Redução de erros**: sistemas inteligentes ajudam a identificar falhas antes que causem problemas.  
-- **Aprendizado contínuo**: programadores podem aprender novas linguagens e frameworks com auxílio da IA.  
-- **Criatividade expandida**: soluções inovadoras surgem a partir de sugestões inesperadas das ferramentas.  
-- **Colaboração facilitada**: equipes inteiras podem se alinhar melhor com documentação e código gerados automaticamente.
-
-### 6. O futuro da programação com IA  
-A tendência é que a IA se torne cada vez mais integrada ao desenvolvimento. O papel humano será direcionar ideias e validar soluções criadas em conjunto com máquinas, formando uma parceria poderosa.
-
----
-
-## 🚀 Como participar do desafio
-1. Faça um **fork** do repositório oficial.  
-2. Personalize seu README com este ebook e outros conteúdos criativos.  
-3. Publique na plataforma da DIO.  
-4. Compartilhe nas redes sociais com a hashtag **#LabDIONattyOrNot**.  
+## 🚀 Resultados
+Confira o e-book produzido pela IA e o prompt utilizado:
+- [E-BOOK](/exemplos/E-BOOK.md)
+- [Podcast](/exemplos/PODCAST.md)
 
 ---
 
@@ -63,18 +55,7 @@ Descreva como você criou o conteúdo
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
 ```
 
-### Exemplos e Insigths
+### Até mais!!!
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
