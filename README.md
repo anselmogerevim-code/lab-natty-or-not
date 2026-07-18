@@ -29,8 +29,8 @@ Além disso, foi criada uma capa visual com IA generativa para dar identidade ao
 
 ## 🚀 Resultados
 Confira o e-book produzido pela IA e o prompt utilizado:
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
+- [E-BOOK](/Ebook.md)
+- [Prompt](/Prompt.md)
 
 ---
 
