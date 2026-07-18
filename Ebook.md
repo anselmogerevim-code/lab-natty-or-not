@@ -1,6 +1,5 @@
 # 📘 IA & Programação – Ebook Natural ou Fake Natty?
 
-![Capa do Ebook](./capa-ebook.png)
 
 ## 📖 Descrição
 Este projeto faz parte do desafio **Natural ou Fake Natty?** da DIO.  
